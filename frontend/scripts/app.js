@@ -18,7 +18,9 @@ createApp({
     },
     methods: {
         badgeStatusColor: function(status) {
-            return `badge ${this.badgeStatusClass[status] || 'bg-primary'} rounded-pill`;
+            return `badge ${
+        this.badgeStatusClass[status] || "bg-primary"
+      } rounded-pill`;
         },
         addTask: function() {
             axios
@@ -31,7 +33,6 @@ createApp({
                     if (res.status == 201) {
                         this.todoAll();
                         this.formAdd.task_name = "";
-                        console.log(res);
                     }
                 })
                 .catch((err) => {
@@ -39,7 +40,21 @@ createApp({
                 });
         },
         updateTaskStatus: function(taskId) {
-            console.log(taskId);
+            axios
+                .get(this.url + "/updateTaskStatus.php", {
+                    params: {
+                        taskId: taskId,
+                    },
+                    headers: {
+                        Authorization: `Bearer ${this.key}`,
+                    },
+                })
+                .then((res) => {
+                    if (res.status == 200) {
+                        console.log(res);
+                    }
+
+                });
         },
         todoAll: function() {
             axios
@@ -50,7 +65,7 @@ createApp({
                 })
                 .then((res) => {
                     this.formAdd.todos = res.data.Data.Todos;
-                    console.log(res.data.Data.Todos);
+                    //console.log(res.data.Data.Todos);
                 })
                 .catch((err) => {
                     console.error(err);

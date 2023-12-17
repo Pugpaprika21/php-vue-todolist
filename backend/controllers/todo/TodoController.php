@@ -29,6 +29,17 @@ class TodoController
         return ['msg' => 'เพิ่มข้อมูลสำเร็จ', 'status' => 204];
     }
 
+    public function updateTaskStatus(): array
+    {
+        $body = $this->request['QueryString'];
+
+        $taskId = conText($body['taskId']);
+        $task = $this->rbf->findOne('todos', 'id = ?', [$taskId]);
+        R::close();
+
+        return ['task' => $task];
+    }
+
     public function todoAll(): array
     {
         $todos = R::getAll("SELECT * FROM todos ORDER BY due_date DESC");
