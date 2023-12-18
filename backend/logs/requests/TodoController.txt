@@ -1,4 +1,40 @@
-[data 2023-12-17 09:01:24] => array (
+[data 2023-12-18 07:56:44] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '29',
+    'statusNum' => '2',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '29',
+    'statusNum' => '2',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 07:56:44] => array (
   'Post' => 
   array (
   ),
@@ -30,20 +66,22 @@
     'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
   ),
 )
-[data 2023-12-17 09:01:27] => array (
+[data 2023-12-18 07:57:08] => array (
   'Post' => 
   array (
   ),
   'Any' => 
   array (
-    'taskId' => '1',
+    'taskId' => '30',
+    'statusNum' => '1',
   ),
   'FormFile' => 
   array (
   ),
   'QueryString' => 
   array (
-    'taskId' => '1',
+    'taskId' => '30',
+    'statusNum' => '1',
   ),
   'Ajax' => NULL,
   'headers' => 
@@ -64,73 +102,7 @@
     'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
   ),
 )
-[data 2023-12-17 09:02:43] => array (
-  'Post' => 
-  array (
-  ),
-  'Any' => 
-  array (
-  ),
-  'FormFile' => 
-  array (
-  ),
-  'QueryString' => 
-  array (
-  ),
-  'Ajax' => NULL,
-  'headers' => 
-  array (
-    'Host' => 'localhost',
-    'Connection' => 'keep-alive',
-    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
-    'Accept' => 'application/json, text/plain, */*',
-    'sec-ch-ua-mobile' => '?0',
-    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
-    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-    'sec-ch-ua-platform' => '"Windows"',
-    'Sec-Fetch-Site' => 'same-origin',
-    'Sec-Fetch-Mode' => 'cors',
-    'Sec-Fetch-Dest' => 'empty',
-    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
-    'Accept-Encoding' => 'gzip, deflate, br',
-    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
-  ),
-)
-[data 2023-12-17 09:02:44] => array (
-  'Post' => 
-  array (
-  ),
-  'Any' => 
-  array (
-    'taskId' => '6',
-  ),
-  'FormFile' => 
-  array (
-  ),
-  'QueryString' => 
-  array (
-    'taskId' => '6',
-  ),
-  'Ajax' => NULL,
-  'headers' => 
-  array (
-    'Host' => 'localhost',
-    'Connection' => 'keep-alive',
-    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
-    'Accept' => 'application/json, text/plain, */*',
-    'sec-ch-ua-mobile' => '?0',
-    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
-    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-    'sec-ch-ua-platform' => '"Windows"',
-    'Sec-Fetch-Site' => 'same-origin',
-    'Sec-Fetch-Mode' => 'cors',
-    'Sec-Fetch-Dest' => 'empty',
-    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
-    'Accept-Encoding' => 'gzip, deflate, br',
-    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
-  ),
-)
-[data 2023-12-17 09:04:17] => array (
+[data 2023-12-18 07:57:08] => array (
   'Post' => 
   array (
   ),
@@ -162,20 +134,5524 @@
     'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
   ),
 )
-[data 2023-12-17 09:04:19] => array (
+[data 2023-12-18 07:58:30] => array (
   'Post' => 
   array (
   ),
   'Any' => 
   array (
-    'taskId' => '5',
   ),
   'FormFile' => 
   array (
   ),
   'QueryString' => 
   array (
-    'taskId' => '5',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 07:58:32] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '29',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '29',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 07:58:32] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 07:58:32] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '30',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '30',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 07:58:32] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 07:58:32] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '31',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '31',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 07:58:32] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 07:58:34] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 07:58:35] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 07:58:36] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 07:58:37] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '32',
+    'statusNum' => '1',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '32',
+    'statusNum' => '1',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 07:58:37] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 07:58:39] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '32',
+    'statusNum' => '2',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '32',
+    'statusNum' => '2',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 07:58:39] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 07:58:40] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '33',
+    'statusNum' => '1',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '33',
+    'statusNum' => '1',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 07:58:40] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 07:58:42] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 07:58:43] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:11] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:12] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '32',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '32',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:12] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:12] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '33',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '33',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:12] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:12] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '33',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '33',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:12] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:13] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '34',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '34',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:13] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:13] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '35',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '35',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:13] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:13] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '36',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '36',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:13] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:14] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:15] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:16] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:17] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '37',
+    'statusNum' => '1',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '37',
+    'statusNum' => '1',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:17] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:18] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '38',
+    'statusNum' => '1',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '38',
+    'statusNum' => '1',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:18] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:18] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '38',
+    'statusNum' => '2',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '38',
+    'statusNum' => '2',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:19] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:20] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:00:34] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:01:43] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:01:45] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '40',
+    'statusNum' => '1',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '40',
+    'statusNum' => '1',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:01:45] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:01:45] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '40',
+    'statusNum' => '2',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '40',
+    'statusNum' => '2',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:01:45] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:03:20] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:03:21] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:03:57] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:03:58] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:04:09] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:04:10] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:04:45] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:04:46] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:05:12] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:05:13] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '39',
+    'statusNum' => '1',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '39',
+    'statusNum' => '1',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:05:13] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:05:16] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '41',
+    'statusNum' => '1',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '41',
+    'statusNum' => '1',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:05:16] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:05:40] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:05:41] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '39',
+    'statusNum' => '2',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '39',
+    'statusNum' => '2',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:05:42] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:05:43] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '42',
+    'statusNum' => '1',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '42',
+    'statusNum' => '1',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:05:44] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:05:52] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '45',
+    'statusNum' => '1',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '45',
+    'statusNum' => '1',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:05:53] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:05:54] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '40',
+    'statusNum' => '3',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '40',
+    'statusNum' => '3',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:05:55] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:06:46] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '40',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '40',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:06:46] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:09:49] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:09:56] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:10:32] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:11:29] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:11:43] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:11:44] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:12:04] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:12:12] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:12:18] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:12:23] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:12:26] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '37',
+    'statusNum' => '2',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '37',
+    'statusNum' => '2',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:12:27] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:12:40] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:12:44] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '43',
+    'statusNum' => '1',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '43',
+    'statusNum' => '1',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:12:45] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:12:46] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '43',
+    'statusNum' => '2',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '43',
+    'statusNum' => '2',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:12:47] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:12:49] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:12:52] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:12:55] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:12:59] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '41',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '41',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:12:59] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:13:25] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:13:31] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '45',
+    'statusNum' => '2',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '45',
+    'statusNum' => '2',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:13:32] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:13:35] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:13:40] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:13:43] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '47',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '47',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:13:43] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:13:44] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '48',
+    'statusNum' => '1',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '48',
+    'statusNum' => '1',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:13:45] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:13:56] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '43',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '43',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:13:56] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:14:23] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:14:24] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '39',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '39',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:14:25] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:14:26] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '42',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '42',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:14:27] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:14:29] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:14:31] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '49',
+    'statusNum' => '1',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '49',
+    'statusNum' => '1',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:14:32] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:14:35] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '50',
+    'statusNum' => '1',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '50',
+    'statusNum' => '1',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:14:36] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:15:27] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '49',
+    'statusNum' => '2',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '49',
+    'statusNum' => '2',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:15:28] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:15:29] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '50',
+    'statusNum' => '2',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '50',
+    'statusNum' => '2',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:15:30] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:15:31] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:15:33] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:17:24] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:17:39] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:17:44] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:17:47] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '53',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '53',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:17:49] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:18:36] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:18:36] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:18:38] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:18:40] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '54',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '54',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:18:41] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:19:52] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:20:12] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:21:00] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:21:23] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:21:31] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '46',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '46',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:21:32] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:21:33] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '49',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '49',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:21:34] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:21:36] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:21:39] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '48',
+    'statusNum' => '2',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '48',
+    'statusNum' => '2',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:21:40] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:21:42] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '51',
+    'statusNum' => '1',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '51',
+    'statusNum' => '1',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:21:43] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:21:43] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '51',
+    'statusNum' => '2',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '51',
+    'statusNum' => '2',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:21:45] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:21:46] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '50',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '50',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:21:47] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:21:47] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '48',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '48',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:21:49] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:21:49] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:23:09] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:23:10] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '44',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '44',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:23:11] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:23:12] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:23:30] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:24:20] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:24:22] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:24:46] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:24:47] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '52',
+    'statusNum' => '1',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '52',
+    'statusNum' => '1',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:24:48] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:24:50] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '55',
+    'statusNum' => '1',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '55',
+    'statusNum' => '1',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:24:51] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:25:11] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:25:38] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:25:42] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '51',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '51',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:25:43] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:25:43] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+    'taskId' => '57',
+    'statusNum' => '1',
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
+    'taskId' => '57',
+    'statusNum' => '1',
+  ),
+  'Ajax' => NULL,
+  'headers' => 
+  array (
+    'Host' => 'localhost',
+    'Connection' => 'keep-alive',
+    'sec-ch-ua' => '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'Accept' => 'application/json, text/plain, */*',
+    'sec-ch-ua-mobile' => '?0',
+    'Authorization' => 'Bearer QWERQDRFAQER1293@@U+-+1283U4-3473e7aa8drf',
+    'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'sec-ch-ua-platform' => '"Windows"',
+    'Sec-Fetch-Site' => 'same-origin',
+    'Sec-Fetch-Mode' => 'cors',
+    'Sec-Fetch-Dest' => 'empty',
+    'Referer' => 'http://localhost/php-vue-todolist/frontend/views/index-todos.html',
+    'Accept-Encoding' => 'gzip, deflate, br',
+    'Accept-Language' => 'en-US,en;q=0.9,th;q=0.8',
+  ),
+)
+[data 2023-12-18 08:25:45] => array (
+  'Post' => 
+  array (
+  ),
+  'Any' => 
+  array (
+  ),
+  'FormFile' => 
+  array (
+  ),
+  'QueryString' => 
+  array (
   ),
   'Ajax' => NULL,
   'headers' => 

@@ -10,27 +10,46 @@ createApp({
                 todos: [],
             },
             badgeStatusClass: {
-                "ยังไม่เริ่ม": "bg-warning",
-                "กำลังทำ": "bg-info",
-                "เสร็จแล้ว": "bg-success",
+                1: "bg-warning",
+                2: "bg-info",
+                3: "bg-success",
             },
         };
     },
     methods: {
-        badgeStatusColor: function(status) {
+        badgeStatusColor: function(StatusNum) {
             return `badge ${
-        this.badgeStatusClass[status] || "bg-primary"
+        this.badgeStatusClass[StatusNum] || "bg-primary"
       } rounded-pill`;
         },
         addTask: function() {
+            if (this.formAdd.task_name == "") {
+                Swal.fire({
+                    position: "center",
+                    icon: "warning",
+                    title: "Please enter a new Task ..",
+                    showConfirmButton: false,
+                    timer: 1000,
+                });
+                return;
+            }
+
             axios
                 .post(this.url + "/addTask.php", {
                     task_name: this.formAdd.task_name,
                     due_date: new Date().toISOString().slice(0, 10),
-                    status: "ยังไม่เริ่ม",
+                    status: "Pending",
+                    status_num: 1,
                 })
                 .then((res) => {
                     if (res.status == 201) {
+                        Swal.fire({
+                            position: "center",
+                            icon: "success",
+                            title: res.data.Data.Msg,
+                            showConfirmButton: false,
+                            timer: 1000,
+                        });
                         this.todoAll();
                         this.formAdd.task_name = "";
                     }
@@ -39,9 +58,34 @@ createApp({
                     console.error(err);
                 });
         },
-        updateTaskStatus: function(taskId) {
+        updateTaskStatus: function(taskId, statusNum) {
             axios
                 .get(this.url + "/updateTaskStatus.php", {
+                    params: {
+                        taskId: taskId,
+                        statusNum: statusNum,
+                    },
+                    headers: {
+                        Authorization: `Bearer ${this.key}`,
+                    },
+                })
+                .then((res) => {
+                    if (res.status == 200) {
+                        Swal.fire({
+                            position: "center",
+                            icon: "success",
+                            title: res.data.Data.Msg,
+                            showConfirmButton: false,
+                            timer: 1000,
+                        }).then((res) => {
+                            this.todoAll();
+                        });
+                    }
+                });
+        },
+        deleteTask: function(taskId) {
+            axios
+                .get(this.url + "/deleteTask.php", {
                     params: {
                         taskId: taskId,
                     },
@@ -51,9 +95,16 @@ createApp({
                 })
                 .then((res) => {
                     if (res.status == 200) {
-                        console.log(res);
+                        Swal.fire({
+                            position: "center",
+                            icon: "success",
+                            title: res.data.Data.Msg,
+                            showConfirmButton: false,
+                            timer: 1000,
+                        }).then((res) => {
+                            this.todoAll();
+                        });
                     }
-
                 });
         },
         todoAll: function() {
@@ -65,7 +116,6 @@ createApp({
                 })
                 .then((res) => {
                     this.formAdd.todos = res.data.Data.Todos;
-                    //console.log(res.data.Data.Todos);
                 })
                 .catch((err) => {
                     console.error(err);

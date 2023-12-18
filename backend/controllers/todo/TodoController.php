@@ -19,14 +19,16 @@ class TodoController
         $todo = R::dispense('todos');
         $todo->task_name = conText($body['task_name']);
         $todo->due_date = conText($body['due_date']);
-        $todo->status = conText($body['status']); // ยังไม่เริ่ม // กำลังทำ // เสร็จแล้ว
+        $todo->status = conText($body['status']);
+        $todo->status_num = conText($body['status_num']);
+
         R::store($todo);
         R::close();
 
         if ($todo->id) {
-            return ['msg' => 'เพิ่มข้อมูลสำเร็จ', 'status' => 201];
+            return ['msg' => 'Create Task Success ..', 'status' => 201];
         }
-        return ['msg' => 'เพิ่มข้อมูลสำเร็จ', 'status' => 204];
+        return ['msg' => 'Create Task Error ..', 'status' => 204];
     }
 
     public function updateTaskStatus(): array
@@ -34,10 +36,37 @@ class TodoController
         $body = $this->request['QueryString'];
 
         $taskId = conText($body['taskId']);
-        $task = $this->rbf->findOne('todos', 'id = ?', [$taskId]);
-        R::close();
+        $statusNum = conText($body['statusNum']);
 
-        return ['task' => $task];
+        if ($this->rbf->findOne('todos', 'id = ?', [$taskId])) {
+            if ($statusNum == 1) {
+                $status = 'In progress';
+                $statusNum = 2;
+            } else if ($statusNum == 2) {
+                $status = 'Completed';
+                $statusNum = 3;
+            }
+            $todo = R::load('todos', $taskId);
+            $todo->status = $status;
+            $todo->status_num = $statusNum;
+            R::store($todo);
+            R::close();
+            return ['msg' => 'Update Status Success ..'];
+        }
+
+        return ['msg' => ''];
+    }
+
+    public function deleteTask(): array
+    {
+        $body = $this->request['QueryString'];
+
+        $taskId = conText($body['taskId']);
+        if (R::trash('todos', $taskId)) {
+            R::close();
+            return ['msg' => 'Delete Task Success ..'];
+        }
+        return ['msg' => 'Delete Task Error ..'];
     }
 
     public function todoAll(): array
